@@ -1,3 +1,17 @@
+BASH SCRIPT
+###########
+------
+you need to run > chmod +x "filename"  before starting  bash ./"filename"
+
+Version V_1_0_30 :
+transfer the powershell script with additional parts for Linux
+
+
+###############################################################################
+
+
+POWERSHELL :
+############
 ------
 Version V1_0_24 :
 
