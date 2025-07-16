@@ -1,2 +1,2 @@
 # Compare-Folder-Difference
-Compare-Folder-Difference with Powershell
+Compare-Folder-Difference with Powershell or Bash script
