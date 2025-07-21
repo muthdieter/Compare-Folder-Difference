@@ -12,6 +12,10 @@ transfer the powershell script with additional parts for Linux
 
 POWERSHELL :
 ############
+Version V1_0_29
+
+change that the compare don`t put the information into memory - instead on a local .temp folder
+
 ------
 Version V1_0_24 :
 
